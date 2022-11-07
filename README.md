@@ -21,8 +21,8 @@ Los Angeles Subway Network Route Data: [metro.net][link2], [gtfs_rail][link3] <b
 <br/>
 <br/>
 
-## Screenshots:
-![image](https://user-images.githubusercontent.com/71930390/200411227-225fa0b7-b1e9-4dbe-b8a6-f667f30e9eea.png)
+## Screenshot:
+![image](https://user-images.githubusercontent.com/71930390/200421252-b8246f42-86d9-43b7-be9c-47848c2916d2.png)
 
 
 
