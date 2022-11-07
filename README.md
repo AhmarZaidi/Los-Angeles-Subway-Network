@@ -1,2 +1,32 @@
-# Los-Angeles-Subway-Network
-Shows the locations of los angeles subway (metro) stations on Map.
+# Los Angeles Subway Network Markers on Map
+
+### This was task 3 for the Bitnine Apache AGE Internship. 
+
+## Question: <br/>
+Use any map api to draw the Los Angeles’ subway network.
+<br/>
+<br/>
+
+## Solution: <br/>
+Fetched the Los Angeles Subway Station data using geohub [lacity][link1] api and the route data using the [metro.net][link2] project files hosted at [gtfs_rail][link3] and used it to create Object in Javascript. Then used this object for drawing map markers using [tomtom][link4] api.
+<br/>
+<br/>
+
+## Development Environment:
+Text Editor: Microsoft Visual Studio Code<br />
+Browser: Mozilla Firefox v105.0(64-bit) with Developer Tools for Debugging<br />
+Maps API: [tomtom][link4]<br />
+Los Angeles Subway Stations Information API: [lacity][link1]<br />
+Los Angeles Subway Network Route Data: [metro.net][link2], [gtfs_rail][link3] <br />
+<br/>
+<br/>
+
+## Screenshots:
+![image](https://user-images.githubusercontent.com/71930390/200411227-225fa0b7-b1e9-4dbe-b8a6-f667f30e9eea.png)
+
+
+
+[link1]: <https://geohub.lacity.org/datasets/lahub::metro-rail-lines-stops/about>
+[link2]: <https://www.metro.net/riding/schedules/>
+[link3]: <https://gitlab.com/LACMTA/gtfs_rail>
+[link4]: <https://developer.tomtom.com/map-display-api/>
